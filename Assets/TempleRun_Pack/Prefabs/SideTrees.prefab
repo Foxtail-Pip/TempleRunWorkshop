@@ -146,7 +146,7 @@ MonoBehaviour:
   edgePadding: 1
   groundLayer:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 0
   raycastHeight: 50
   maxRayDistance: 200
   yOffset: 0
